@@ -1,0 +1,27 @@
+.padre {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 40rem;
+    height: 30rem;
+    display: flex;
+    padding: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(70, 136, 241);
+}
+
+.imagen {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: 40px;
+}
